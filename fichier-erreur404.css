@@ -85,6 +85,21 @@ footer {
   }
 }
 
-@media (max-width:425px) {
-
+@media (max-width:425px){
+  h1 {
+    font-size: 20px;
+  }
+  h2 {
+    font-size: 44px;
+  }
+  .gauche {
+    margin-right:150px;
+  }
+  p {
+    font-size: 20px;
+  }
+  .textefin {
+    font-size:15px;
+  }
 }
+
