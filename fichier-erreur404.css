@@ -103,3 +103,33 @@ footer {
   }
 }
 
+@media (max-width:375px){
+  .textefin {
+    font-size: 13px;
+  }
+}
+
+@media (max-width:320px){
+  h2 {
+    font-size: 31px;
+    margin-left: 8px;
+    padding:4px;
+  }
+  p{
+    font-size: 18px;
+  }
+  img {
+    margin-top: 15px;
+    width:270px;
+  }
+  .textefin {
+    font-size:11px;
+  }
+  h1 {
+    margin-left: -5px;
+    margin-top:-10px;
+  }
+  #lien {
+    padding:23px;
+  }
+}
